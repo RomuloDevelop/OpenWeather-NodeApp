@@ -8,6 +8,7 @@ Debes instalar los paquetes con el comando: ```npm install```
     node app -d "New York" -u c
 ```
 
-c = Centigrados
-f = Farenheit
-k = Kelvin (Por defecto)
+> Unidades de temperatura
+    c = Centigrados
+    f = Farenheit
+    k = Kelvin (Por defecto)
